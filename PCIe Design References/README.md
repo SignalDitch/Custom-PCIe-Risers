@@ -1,2 +1,4 @@
-# Custom-PCIe-Risers
-Experiments in building custom PCIe risers for Dell PowerEdge mods
+# Design References and Resources
+
+Assorted Links:
+http://elm-chan.org/works/pci/report_e.html
